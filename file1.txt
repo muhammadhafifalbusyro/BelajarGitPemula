@@ -1,1 +1,9 @@
-Nama saya Muhammad Hafif Al Busyro
+Langkah -Langkah push project ke Github
+
+1.Buat project
+2.Buat file di dalam project
+3.Git init
+4.Git add .
+5.Git commit -m "add project"
+6.Git remote add origin "url repostiroty github"
+7.Git push -u origin master 
